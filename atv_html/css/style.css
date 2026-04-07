@@ -1,0 +1,41 @@
+/* Reset básico */
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Corpo da página */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #F5BFE6;
+    color: aliceblue;
+}
+
+/* Cabeçalho */
+header {
+    background-color: #ffffff;
+    color: #ffaedd;
+    padding: 20%;
+    text-align: center;
+}
+
+/* Menu */
+nav ul {
+    list-style-type: none;
+    margin-top: 5%;
+}
+
+nav ul li {
+    display: inline-flex;
+    margin: 5%;
+}
+nav ul li a {
+    color:#ffaedd;
+    text-decoration: none;
+}
+
+/* Conteúdo */
+main {
+    padding: 20%;
+}
