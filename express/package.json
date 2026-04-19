@@ -10,6 +10,8 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "mocha": "^11.7.5"
+    "ejs": "^5.0.2",
+    "express": "^5.2.1",
+    "mocha": "^11.3.0"
   }
 }
